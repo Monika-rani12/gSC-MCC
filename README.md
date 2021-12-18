@@ -8,6 +8,6 @@ CBMC, the Test Case Generator; this is responsible for producing the test suite 
 
 Sequence Generator; this is used to generate the SC-MCC sequences for a given input C program(GCOV version). The related code is in SequenceGenerator/.
 
-The main script file is main-scmcc.sh. The programs in both CBMC and GCOV versions are stored in the Programs/. Additionally all the generated results are available in gSC-MCC_Results/. And the run-gscmcc.sh file contains the commands to execute the programs.
+Here, the main script file is main-scmcc.sh. The programs in both CBMC and GCOV versions are stored in the Programs/. Additionally all the generated results are available in gSC-MCC_Results/. And the run-gscmcc.sh file contains the commands to execute the programs.
 
 Demo video of gSC-MCC can be found [here](https://drive.google.com/file/d/1XLuoEZxL-rOfr1SCf-QXuuzkzPWJWyUp/view?usp=sharing)
